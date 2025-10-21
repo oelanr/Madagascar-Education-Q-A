@@ -1,4 +1,6 @@
 .venv
 /embeddings/
 /data/
-
+.env
+/sumbissions
+.env
